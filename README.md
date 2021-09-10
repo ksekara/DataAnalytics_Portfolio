@@ -1,3 +1,3 @@
-# DataAnalytics_Portfolio
+# Data_Analytics_Portfolio
 
-* This contain portfolio projects.
+* This contains portfolio projects.
